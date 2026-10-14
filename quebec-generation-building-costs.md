@@ -1,0 +1,9 @@
+| Option | What is being built to cover ~100% annualized energy | Approx. local generation size | Annual production in Quebec conditions | Storage / balancing | Approx. current build cost (CAD) | Comments |
+|---|---:|---:|---:|---:|---:|---|
+| Large nuclear plant | One full-size reactor | ~1.2 GW | ~9–9.5 TWh/year | Built-in firmness; no battery needed | **C$12B–28B** | Near-flat output, highest reliability, highest capital cost among mature options |
+| SMR / modular nuclear | Multiple SMRs to reach same annual output | ~1.2 GW total (e.g., 4×300 MW) | ~9–9.5 TWh/year | Built-in firmness; no battery needed | **C$16B–32B+** | Current SMRs are usually not cheaper than large nuclear today |
+| Solar + LiFePO4 battery | Solar fleet sized to match annual energy | ~7–8 GW solar | ~9–10 TWh/year gross | ~4 hours battery, plus grid trading for winter/low-sun periods | **C$11B–22B** | Quebec solar CF is modest; annual energy can be matched, but seasonal firmness remains weak |
+| Wind + LiFePO4 battery | Wind fleet sized to match annual energy | ~2.4–3.0 GW wind | ~9–10 TWh/year gross | ~4 hours battery, plus grid trading for calm periods | **C$7B–12B** | Better fit than solar in Quebec; still not fully firm without trading |
+| Solar + existing hydro balancing | Solar fleet paired with hydro flexibility | ~7–8 GW solar | ~9–10 TWh/year gross | Hydro station / reservoir balances intermittency | **C$10.5B–21.6B** | Cheaper than solar+battery if hydro can absorb variability well |
+| Wind + existing hydro balancing | Wind fleet paired with hydro flexibility | ~2.4–3.0 GW wind | ~9–10 TWh/year gross | Hydro station / reservoir balances intermittency | **C$4.8B–9.9B** | Usually the best cost-to-firmness option in Quebec |
+| Wind + pumped storage | Wind fleet with pumped hydro as firming | ~2.4–3.0 GW wind | ~9–10 TWh/year gross | Pumped storage, site-dependent | **C$9B–18B+** | Can work well, but highly dependent on geography and civil works |
